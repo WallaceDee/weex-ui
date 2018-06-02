@@ -15,7 +15,17 @@
     "semi": "off",
     "no-control-regex": "off",
     "vue/html-self-closing": "off",
-    "space-before-function-paren": 2
+    "space-before-function-paren": 2,
+    "eol-last":"off",
+    "skipBlankLines": "off",
+    "indent":"off",
+    "no-trailing-spaces":"off",
+    "comma-dangle":"off",
+    "valid-typeof":"off",
+    "prefer-const":"off",
+    "quotes":"off",
+    "vue/no-parsing-error":"off",
+    "import/first":"off"
   },
   "extends": "vue"
 }
